@@ -11,7 +11,7 @@ Tested using Thunder-Client and POSTMAN to create and retrieve Files.
 
 100% working...
 
-Check the POSTMAN Documentation for the Create and Get End-point:
+Check the POSTMAN Documentation for the Create and Get API End-point:
 
 https://documenter.getpostman.com/view/27692024/2s93z59QQZ
 
